@@ -1,3 +1,4 @@
 # Lab 5 - Starter
 
-Harrison Kung
+Author: Harrison Kung
+Link to introduction-to-github: https://github.com/kungharrison/introduction-to-github
